@@ -82,9 +82,9 @@ class Chest extends Transparent {
 			$this->x + 0.0625,
 			$this->y,
 			$this->z + 0.0625,
-			$this->x + 0.9375,
-			$this->y + 0.9475,
-			$this->z + 0.9375
+			$this->x + 1.1,
+			$this->y + 1.0475,
+			$this->z + 1.0375
 		);
 	}
 
