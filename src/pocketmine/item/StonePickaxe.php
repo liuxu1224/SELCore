@@ -29,7 +29,7 @@ class StonePickaxe extends Tool {
 	 * @param int $meta
 	 * @param int $count
 	 */
-	public function __construct($meta = 0, $count = 1){
+	public function __construct($meta = 0, $count = 128){
 		parent::__construct(self::STONE_PICKAXE, $meta, $count, "Stone Pickaxe");
 	}
 
