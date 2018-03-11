@@ -129,15 +129,6 @@ dserver:
  query-all-players: false
  #Motd显示人数
  motd-players: false
- #Query显示人数
- query-players: false
- #更新频率，20 = 1秒
- time: 40
- #获取失败自动重试次数
- retry-times: 3
- #服务器列表，用;隔开，例如 1.example.com:19132;2.example.com:19133
- server-list: ""
-
 inventory:
  #如果无法使用铁砧或附魔台，请启用本项. 将会对背包交易进行验证.
  allow-cheats: false
