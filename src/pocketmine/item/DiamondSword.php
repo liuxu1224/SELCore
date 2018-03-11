@@ -44,6 +44,6 @@ class DiamondSword extends Tool {
 	 * @return int
 	 */
 	public function getAttackDamage(){
-		return 8;
+		return 20;
 	}
 }
