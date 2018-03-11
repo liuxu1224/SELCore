@@ -52,7 +52,7 @@ class Bedrock extends Solid {
 	 * @return int
 	 */
 	public function getResistance(){
-		return 18000000;
+		return 1000;
 	}
 
 	/**
